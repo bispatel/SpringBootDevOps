@@ -67,11 +67,5 @@
 
 		</plugins>
 	</build>
-	<distributionManagement>
-  <repository>
-    <id>SpringBootDevOps</id>
-    <url>http://localhost:8081/nexus/content/repositories/SpringBootDevOps</url>
-  </repository>
-</distributionManagement>
-
+	
 </project>
